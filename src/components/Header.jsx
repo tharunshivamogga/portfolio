@@ -12,7 +12,7 @@ export default function Header() {
   📄 Download Resume
 </a>
 
-        <a href="mailto:tharunshivamogga@email.com" className="text-blue-300 hover:underline">📧 Email</a>
+        <a href="mailto:tharunshivamogga@email.com" className="text-blue-300 hover:underline">tharunshivamogga@email.com</a>
         <a href="https://github.com/tharunshivamogga" target="_blank" rel="noreferrer" className="text-blue-300 hover:underline">💻 GitHub</a>
         <a href="https://www.linkedin.com/in/tharun-80880-ts" target="_blank" rel="noreferrer" className="text-blue-300 hover:underline">🔗 LinkedIn</a>
       </div>
